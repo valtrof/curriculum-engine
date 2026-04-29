@@ -1,0 +1,8 @@
+anthropic
+fastapi
+uvicorn
+httpx
+pydantic
+python-dotenv
+pytest
+pytest-asyncio
