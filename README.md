@@ -1,5 +1,7 @@
 # Curriculum Engine
 
+![CI](https://github.com/valtrof/curriculum-engine/actions/workflows/ci.yml/badge.svg?branch=main)
+
 A FastAPI service that generates verified, structured learning plans using Claude AI. The engine designs multi-phase curricula with live-validated resource links sourced from YouTube and web search APIs.
 
 ## How it works
